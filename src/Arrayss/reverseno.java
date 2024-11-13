@@ -1,4 +1,4 @@
-package Arrays;
+package Arrayss;
 
 public class reverseno {
     public static void main(String[] args) {
